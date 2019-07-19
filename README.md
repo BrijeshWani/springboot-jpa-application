@@ -47,3 +47,11 @@ public interface EmployeeRepo extends JpaRepository<Employee, Long> {
 	List<Employee> getAll();
 }
 ```
+
+## JOOQ 
+[Check here](https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/html/boot-features-sql.html#boot-features-jooq)
+
+## LDAP(Lightweight Directoru Access PRotocol)
+[Check here](https://docs.spring.io/spring-boot/docs/2.1.6.RELEASE/reference/html/boot-features-nosql.html#boot-features-ldap)
+
+## 
